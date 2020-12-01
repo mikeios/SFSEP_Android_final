@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="UTI_Main">
+        <item>Obtenir une estimation du risque et de la conduite à tenir pour votre patient</item>
+        <item>Comment traiter une infection urinaire à risque de complication?</item>
+        <item>Texte intégral et ressources</item>
+        <item>Définitions: infections urinaires récidivantes, à risque de complication...</item>
+        <item>Infections urinaires, poussées et incapacité</item>
+        <item>Infections urinaires et traitements</item>
+        <item>Faut-il dépister une bactériurie asymptomatique?</item>
+        <item>Foire aux Questions</item>
+    </string-array>
+</resources>

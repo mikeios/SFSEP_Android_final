@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //UI accueil
+    <string name="uti_assistant_reco">Obtenir une estimation du risque et de la conduite à tenir pour votre patient</string>
+    <string name="uti_assistant_ttt">Comment traiter une infection urinaire à risque de complication?</string>
+    <string name="uti_definitions">Définitions: infections urinaires récidivantes, à risque de complication...</string>
+    <string name="uti_reco_poussée">Infections urinaires, poussée et incapacité</string>
+    <string name="uti_reco_ttt">Infections urinaires et traitements</string>
+    <string name="uti_depistage">Faut-il dépister une bactériurie asymptomatique?</string>
+    //UI assistant reco
+    <string name="age">Age</string>
+    <string name="genre">Genre</string>
+    <string name="frailty">Critères de fragilité</string>
+    <string name="frailty_detail">Perte de poids involonatire sur 12 mois - Ralentissement de la vitesse de marche - Fatigabilité - Faiblesse musculaire - Activity physique réduite</string>
+    <string name="uti_anomalie_tractus">Anomalies du tractus urinaire</string>
+    <string name="uti_reflux">Reflux vésico-urétral</string>
+    <string name="uti_high_pression">Pression intra détrusorienne &gt;40 cm H2O</string>
+    <string name="uti_cortico_longcours">Corticothérapie au long cours</string>
+    <string name="uti_cortico_bolus">Bolus de méthylprednisolone</string>
+    <string name="uti_dmt">Traitement de fond</string>
+    <string name="uti_fampridine">Traitement par fampridine</string>
+    <string name="uti_plex">Traitement par échanges plasmatiques</string>
+    <string name="uti_hypogamma">Hypogamma globulinémie</string>
+    <string name="uti_neutropenie">Neutropénie \n&lt;500/mm3</string>
+    <string name="uti_bad_renal_function">Clairance rénale &lt;30mL/min</string>
+    <string name="uti_recidivantes">&gt; 4 épisodes d\'IU en 12 mois</string>
+    <string name="uti_less65">&lt; 65</string>
+    <string name="uti_65_75">65-75</string>
+    <string name="uti_highet75">&gt; 75</string>
+    <string name="uti_male">M</string>
+    <string name="uti_female">F</string>
+    <string name="uti_non_na">Non - N/A</string>
+    <string name="uti_estimation_risque">Estimation du risque</string>
+    <string name="uti_risque_iu_compliquee">Sujet à risque d\'infections urinaires compliquées</string>
+    <string name="uti_ttt_majore_risque">Le traitement majore-t-il le risque d\'infection urinaire?</string>
+    <string name="uti_critere_uti_recidivantes">Critères d\'infections urinaires récurrentes?</string>
+    <string name="uti_cat">Conduite à tenir</string>
+    <string name="uti_cat_depistage">Faut-il dépister une bactériurie asymptomatique de manière systématique?</string>
+    <string name="uti_cat_depistage_bud">Faut-il dépister une bactériurie asymptomatique avant un BUD?</string>
+    <string name="uti_cat_ttt_preventif">Faut-il envisager un traitement préventif des infections urinaires?</string>
+    //UI assistant traitement
+    <string name="uti_assistant_ttt_title">Traitement des infections urinaires à risque de complication</string>
+    <string name="uti_spilf">D\'après les recommandations de la SPILF</string>
+    <string name="uti_review_definition">Revoir les définitions</string>
+    <string name="uti_infection_type">Type d\'infection</string>
+    <string name="cystite">Cystite</string>
+    <string name="pyelo">Pyélonéphrite</string>
+    <string name="colonisation">Colonisation</string>
+    <string name="uti_choc">Choc septique</string>
+    <string name="uti_gravite">Signes de gravité</string>
+    <string name="uti_gravite_detail">Sepsis sévère (Quick SOFA ≧ 2) - Geste urologique (hors sondage simple)</string>
+    <string name="uti_paucisp">Infection pauci symptomatique</string>
+    <string name="uti_can_be_delayed">Traitement pouvant être différé de 48h</string>
+    <string name="uti_probabiliste">Traitement probabiliste</string>
+    <string name="uti_ttt_adapte">Traitement adapté à la microbiologie</string>
+    <string name="uti_duree_ttt">Durée de traitement</string>
+    //Assistants
+    <string name="uti_screening">En raison de l’hypogammaglobulinémie, le dépistage d\'une bactériurie asymptomatique peut être discuté au cas par cas avant administration d\'un immunosuppresseur</string>
+    <string name="non_screening">Non, à l’exception des situations recommandées dans la population générale (grossesse, geste invasif urologique)</string>
+    <string name="uti_screening_bud">Oui car ce patient présente des facteurs de risque d\'infection urinaire</string>
+    <string name="uti_prevention">L\'antibiocycle hebdomadaire est à discuter après avis spécialisé chez ce patient</string>
+    <string name="uti_bolusReco">Aucune augmentation du risque infectieux urinaire n’a été établie sous fortes doses de methylprednisolone</string>
+    <string name="uti_plasmaReco">Aucune augmentation du risque infectieux urinaire n’a été établie après échanges plasmatiques</string>
+    <string name="uti_fampridineReco">Aucune augmentation du risque infectieux urinaire n’a été établie sous fampridine</string>
+    <string name="ocre_warning">Aucune augmentation du risque infectieux urinaire n’a été établie sous ocrelizumab mais par extension à l’effet de classe des anti-CD20, le risque d’infection peut être augmenté en cas d’hypogammaglobulinémie</string>
+    //Traitement des UTI
+    <string name="uti_pna_choc1">Céfotaxime ou ceftriaxone + amikacine</string>
+    <string name="uti_pna_choc2">Si allergie : aztréonam + amikacine</string>
+    <string name="uti_pna_choc3">Si allergie : aztréonam + amikacine";
+uti_pna_choc3 = "Si antécédent d’IU/colonisation à EBLSE &lt;6 mois, OU amox-clav/C2G-C3G/FQ &lt;6 mois OU voyage en zone d’endémie EBLSE:\n\nImipénème ou méropénème + amikacine</string>
+    <string name="uti_pna_grave1">Si antécédent d’IU/colonisation à EBLSE &lt;6 mois, choix selon la documentation microbiologique antérieure :\n\nPiperacilline-tazobactam + amikacine si souche sensible\n\nA défaut imipénème ou méropénème + amikacine</string>
+    <string name="uti_pna_simple1">Céfotaxime ou ceftriaxone (à privilégier si hospitalisation)</string>
+    <string name="uti_pna_simple2">Ciprofloxacine ou lévofloxacine</string>
+    <string name="uti_prostatite1">Ciprofloxacine, levofloxacine</string>
+    <string name="uti_prostatite2">Cotrimoxazole (SMX-TMP)</string>
+    <string name="uti_prostatite3">Cefotaxime, ceftriaxone</string>
+    <string name="uti_prostatite4">Cefoxitine (E. coli), piperacilline-tazobactam, temocilline</string>
+    <string name="uti_prostatite5">Imipénème, méropénème, ertapénème (si ≥ 80 kg : 1 g x 2)</string>
+    <string name="uti_amoxClav">Amoxicilline - acide clavulanique</string>
+    <string name="uti_FosfoTroRegimen"> 3g à J1-J3-J5</string>
+    <string name="uti_parenterale">ß-lactamine parentérale</string>
+    <string name="uti_other">Autres cas</string>
+    <string name="uti_uropathie">uropathie sous jacente</string>
+    <string name="uti_pna_rapidement_evolutive">si évolution rapidement résolutive</string>
+    <string name="uti_saufSiFQRecent">(Sauf si traitement par FQ dans les 6 mois)</string>
+    <string name="uti_pna_contreIndic">Si contre-indications: aminoside (amikacine, gentamicine ou tobramycine) ou aztréonam</string>
+    <string name="ttt_prolonge">Au cas par cas, indication de traitement prolongé</string>
+    <string name="uti_warningPregnancy">Eviter l\'utilisation du trimetoprime pendant les 2 premiers mois</string>
+    <string name="jour">jour</string>
+    <string name="jours">jours</string>
+</resources>

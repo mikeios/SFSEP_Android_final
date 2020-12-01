@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="edss_sphincters">
+    <item>0. Fonction Normale</item>
+    <item>1. Rétention urinaire légère ou rares mictions impérieuses</item>
+    <item>2. Rétention urinaire modérée et mictions impérieuses fréquentes ou incontinence urinaire rare ; constipation ou épisodes diarrhéiques</item>
+    <item>3. Incontinence urinaire fréquente</item>
+    <item>4. Nécessité d\'une cathéterisation pratiquement constante</item>
+    <item>5. Incontinence urinaire</item>
+    <item>6. Incontinence urinaire et fécale</item>
+</string-array>
+</resources>

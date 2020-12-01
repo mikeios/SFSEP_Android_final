@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Vaccinations_Recos">
+        <item>Patient naïf/au diagnostic</item>
+        <item>Patient sous immunomodulateur</item>
+        <item>Patient sous immunosuppresseur</item>
+    </string-array>
+</resources>

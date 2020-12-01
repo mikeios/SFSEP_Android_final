@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="edss_pyramidal">
+        <item>0. Fonction Normale</item>>
+        <item>1. Signes anormaux sans handicap</item>>
+        <item>2. Handicap minime</item>
+        <item>3. Paraparésie ou hémiparésie légère ou modérée</item>
+        <item>4. Paraparésie ou hémiparésie marquée ; tétraparésie modérée ; ou monoplégie</item>
+        <item>5. Paraplégie, hémiplégie, ou tétraparésie marquée</item>
+        <item>6. Tétraplégie</item>
+    </string-array>
+</resources>

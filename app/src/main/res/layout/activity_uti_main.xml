@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".uti.UtiMainActivity">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:background="#BCCBCA"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/banner_uti" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView6">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorAccent"
+                android:backgroundTint="@color/colorAccent"
+                android:fontFamily="sans-serif-medium"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/vaccin_assistant"
+                android:textColor="#FDFDFD"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView8" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center"
+                android:onClick="assistantRecoTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/uti_assistant_reco"
+                android:textAlignment="viewStart" />
+
+            <View
+                android:id="@+id/view25"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center"
+                android:onClick="assistantTttTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/uti_assistant_ttt"
+                android:textAlignment="viewStart" />
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorAccent"
+                android:backgroundTint="@color/colorAccent"
+                android:fontFamily="sans-serif-medium"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/vaccin_textes_reference"
+                android:textColor="#FDFDFD"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView8" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:onClick="texteIntegralTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/vaccin_texte_et_ressources"
+                android:textAlignment="viewStart" />
+
+            <View
+                android:id="@+id/view26"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:onClick="definitionsTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/uti_definitions"
+                android:textAlignment="viewStart" />
+
+            <View
+                android:id="@+id/view27"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:onClick="utiPousseesTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/uti_reco_poussée"
+                android:textAlignment="viewStart" />
+
+            <View
+                android:id="@+id/view30"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:onClick="utiAndTreatmentsTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/uti_reco_ttt"
+                android:textAlignment="viewStart" />
+
+            <View
+                android:id="@+id/view34"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:onClick="utiDepistageTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/uti_depistage"
+                android:textAlignment="viewStart" />
+
+            <View
+                android:id="@+id/view35"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView39"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:onClick="utiFAQTouched"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/faq"
+                android:textAlignment="viewStart" />
+
+            <View
+                android:id="@+id/view36"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

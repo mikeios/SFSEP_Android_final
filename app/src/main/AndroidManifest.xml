@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sfsep">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".uti.assistantReco.UtiAssistantRecoDmtSelector"></activity>
+        <activity android:name=".uti.UtiAssistantTreatmentResult" />
+        <activity android:name=".uti.UtiAssistantTreatmentForm" />
+        <activity android:name=".uti.assistantReco.UtiAssistantRecoResult" />
+        <activity android:name=".uti.assistantReco.UtiAssistantRecoForm" />
+        <activity android:name=".vaccins.VaccinAssistantResult" />
+        <activity android:name=".vaccins.VaccinAssistantExpert" />
+        <activity
+            android:name=".vaccins.VaccinAssistantTwo"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity android:name=".vaccins.VaccinAssistantOne" />
+        <activity android:name=".PopUpWindow" />
+        <activity android:name=".FAQ.FaqActivity" />
+        <activity android:name=".vaccins.VaccinSummaryActivity" />
+        <activity android:name=".uti.UtiMainActivity" />
+        <activity android:name=".vaccins.VaccinMainActivity" />
+        <activity android:name=".generalModel.PDF.PdfActivity" />
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".workInProgress.WipActivity" />
+        <activity android:name=".mcDonald.McDonald2017DetailActivity" />
+        <activity android:name=".mcDonald.McDonald2017MainActivity" />
+        <activity android:name=".edss.EdssPfDetailActivity" />
+        <activity android:name=".edss.adapters.EdssPfDetailCell" />
+        <activity android:name=".edss.EdssMainTableActivity" />
+        <activity android:name=".Tools" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

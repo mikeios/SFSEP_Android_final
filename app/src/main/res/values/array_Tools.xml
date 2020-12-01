@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ToolsList">
+        <item>Score EDSS</item>
+        <item>Critères de McDonald 2017</item>
+        <item>Site internet SFSEP</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="edss_sensitif">
+        <item>0. Normale</item>
+        <item>1. Perception des vibrations ou reconnaissance de figures dessinées sur la peau seulement diminuée</item>
+        <item>2. Légère diminution de la sensibilité au toucher, à la douleur ou du sens de la position, et/ou diminution modérée de la perception des vibrations (ou de figures dessinées) dans 3 ou 4 membres</item>
+        <item>3. Diminution modérée de la sensibilité au toucher, à la douleur ou du sens de la position, et/ou perte de la perception des vibrations dans 1 ou 2 membres ; ou diminution légère de la sensibilité au toucher ou à la douleur dans tous les tests proprioceptifs dans 3 ou 4 membres</item>
+        <item>4. Diminution marquée de la sensibilité au toucher ou à la douleur ou perte de la perception proprioceptive, isolées ou associées, dans 1 ou 2 membres ; ou diminution modérée de la sensibilité au toucher ou à la douleur et/ou diminution sévère de la perception proprioceptive dans plus de 2 membres.</item>
+        <item>5. Perte de la sensibilité dans 1 ou 2 membres ; ou diminution modérée de la sensibilité au toucher ou à la douleur et/ou perte de la sensibilité proprioceptive sur la plus grande partie du corps en dessous de la tête</item>
+        <item>6. Perte de la sensibilité en dessous de la tête</item>
+
+    </string-array>
+</resources>

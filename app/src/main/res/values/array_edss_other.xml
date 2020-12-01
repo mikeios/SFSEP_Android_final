@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="edss_other">
+    <item>0. Pas d’autre fonction atteinte</item>
+    <item>1. Toute autre perturbation neurologique attribuable à la SEP</item>
+</string-array>
+</resources>

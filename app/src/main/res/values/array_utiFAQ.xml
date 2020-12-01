@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="uti_faq">
+        <item>Quel est le risque d\’IU si mon patient est sous immunosuppresseur ?
+|Les immunosuppresseurs sont : le natalizumab, le fingolimod, le teriflunomide, le dimethylfumarate, l\’ocrelizumab, la mitoxantrone, l\’alentuzumab, la cladribine et hors AMM : le cyclophosphamide, le rituximab, l\’azathioprine et le mycophénolate mofétil.
+\n\n
+Les études d\’efficacité et de tolérance ne montrent pas d\’augmentation du risque d\’IU sous teriflunomide, diméthylfumarate, natalizumab, fingolimod, cladribine et hors AMM : azathioprine et mycophénolate mofétil.
+\n\n
+Dans les études pivots, incluant 1300 patients atteints de SEP, aucun sur-risque d\’IU n\’a été montré avec l\’ocrelizumab. Cependant, devant l\’hypogammaglobulinémie potentiellement induite par les anti-CD20 et le manque de recul suffisant avec cette molécule, les experts ont considéré que le risque d\’IU ne pouvait pas être écarté  en cas d\’hypogammaglobulinémie.
+Les études d\’efficacité /tolérance menées dans le cadre de la SEP, en cancérologie et/ou en  rhumatologie vont toutes dans le sens d\’une augmentation de la prévalence des IU après traitement par alemtuzumab, mitoxantrone et hors AMM: rituximab, et cyclophosphamide. En présence d\’une augmentation de la prévalence des IU, une attention particulière doit donc être portée à ces patients qui nécessitent un bilan neuro-urologique pour rééquilibrer l\’état vésico-sphinctérien et minimiser ce risque par une adaptation du mode mictionnel. </item>
+
+        <item>Quel est le risque d\’IU si mon patient est sous fampridine ?
+|Le RCP de la fampridine indique une incidence des IU de 2 à 14%. Dans les études pivots l\’effet secondaire  « IU » ne reposait que sur des signes fonctionnels urinaires rapportés par les patients (pollakiurie, urgenturie, fuites) sans preuve bactériologique associée (ECBU) ne permettant pas de conclure sur un sur-risque d\’IU avec ce traitement. Par ailleurs, les essais randomisés ne retrouvent pas d\’augmentation significative du risque d\’IU sous fampridine. </item>
+
+        <item>Quel est le risque d\’IU après bolus de méthylprednisolone à fortes doses ?
+|La méthylprednisolone à forte dose est susceptible d\’entrainer une immunosuppression pendant 3 mois. Le risque infectieux de la corticothérapie est directement corrélé à la profondeur de la neutropénie induite (risque majeur &lt;500/mm3 et inéluctable &lt;100/mm3) et à sa durée (10 jours risque majeur). Les cures courtes de MP n\’induisent pas généralement de neutropénie. Dans les essais randomisés et méta-analyse il n\’est pas identifié d\’IU chez les patients traité par méthylprednisolone à fortes doses per os ou intraveineux. </item>
+
+        <item>Mon patient doit recevoir des bolus de méthylprednisolone faut-il prescrire un ECBU systématique ?
+|Aucune augmentation du risque d\’IU n\’a été établie sous fortes doses de méthylprednisolone. En l\’absence de symptôme d\’IU il n\’est pas recommandé de réaliser systématiquement un ECBU avant bolus de méthylprednisolone.
+\n\n
+En revanche il est recommandé de traiter une IU symptomatique avant les bolus de méthylprédnisolone.
+Il convient donc de rechercher des signes cliniques évocateurs d\’IU chez tout patient devant recevoir des bolus et de prescrire un ECBU uniquement en cas de signes évocateurs tels que : aggravation des signes fonctionnels urinaires préexistants, urines malodorantes, hyperthermie associés ou non à une aggravation des signes neurologiques et de traiter l\’IU si elle est confirmée. </item>
+
+        <item>Faut-il dépister et traiter systématiquement une BA (colonisation) avant un traitement immunosuppresseur ?
+|Les patients atteints de SEP sous immunosuppresseurs et lymphopéniques présenteraient plus d\’IU que les patients sous placebo. Il convient alors de se baser sur plusieurs recommandations déjà existantes concernant le dépistage des BA pour proposer une recommandation dans cette situation précise. Il n\’est pas recommandé de dépister ni de traiter les BA (colonisations) chez les patients immunodéprimés. Les seules situations consensuelles pour le dépistage et le traitement des BA sont: avant une chirurgie urologique invasive programmée et la grossesse à partir du 4ème mois.
+\n\n
+Cependant, l\’hypogammaglobulinémie potentiellement induite par les traitements immunosuppresseurs est susceptible d\’augmenter le risque d\’infection. Pour cette raison les experts ont considéré qu\’en cas d\’hypogammaglobulinémie, le risque d\’IU ne pouvait pas être écarté et le dépistage et le traitement des BA étaient à considérer au cas par cas. </item>
+
+        <item>Quel est le risque d\’infection urinaire (IU) si mon patient est sous immunomodulateurs ?
+|Les immunomodulateurs sont les interférons et l\’acétate de glatiramer. Ces traitements n\’induisent pas d\’immunosuppression. Même si ce risque n\’a pas été étudié spécifiquement au cours des traitements immunomodulateurs dans la SEP, aucun risque d\’IU n\’a été rapporté  sous interférons et acétate de glatiramer dans les grands essais randomisés ou les revues de synthèse.</item>
+
+        <item> Faut-il dépister et traiter systématiquement une BA (colonisation) chez les patients atteints de SEP ?
+|Chez un patient atteint de SEP, la prévalence des BA peut être élevée, en particulier chez les patients sondés ou présentant une vessie neurologique. L\’intérêt d\’un dépistage systématique ou d\’un traitement de la BA n\’est pas démontré et n\’est pas recommandé, à l\’exception des situations indiquées dans la population générale (femme enceinte ou avant un geste invasif urologique).</item>
+
+        <item>Faut-il toujours traiter une IU au cours de la SEP ?
+|Les IU au cours de la SEP peuvent évoluer vers le sepsis (pour les IU fébriles) et leur symptomatologie peut être invalidante et ou douloureuses, aussi il est recommandé de toujours traiter une IU survenant au cours de la SEP. </item>
+
+        <item>Mon patient présente des IU à répétition quelle prise en charge proposer ?
+|Il convient de rechercher des facteurs favorisant (hygiènes, déshydratation, trouble du transit) et d\’évaluer la présence et/ou l\’aggravation de troubles vésico sphinctérien. Si le bilan est négatif ou que la correction des facteurs de risque ne permet pas de diminuer la fréquence des IU alors un traitement par antibiocycle alterné peut être discutée après avis d\’expert.</item>
+
+        <item>Mon patient se présente en consultation avec les résultats d\’un ECBU positif quelle attitude adopter ?
+|Il faut rechercher des symptômes évocateurs d\’IU.  En cas d\’absence de symptômes et quel que soit le seuil de bactériurie et/ou de leucocyturie il n\’y a pas d\’indication à une antibiothérapie (sauf en cas de grossesse ou avant un geste invasif urologique)</item>
+
+        <item>Faut-il traiter une bactérie multi résistante asymptomatique retrouvée sur un ECBU ?
+|Surtout pas, le traitement des BA ne permet ni de stériliser durablement les urines ni de prévenir une éventuelle IU. En revanche, cela favorise l\’émergence de nouvelles résistances bactériennes et peut occasionner des effets indésirables (infections à Clostridium difficile par exemple).</item>
+
+        <item>Faut-il faire un ECBU de contrôle après un traitement antibiotique ?
+|Surtout pas. La BA n\’étant pas une indication de traitement, le contrôle systématique d\’un ECBU ne doit pas être réalisé.</item>
+
+        <item>Quelle est la place des bandelettes urinaires (BU) dans le dépistage des IU chez les patients atteints de SEP ?  
+|Il n\’y a pas d\’indication à la BU pour le diagnostic des IU chez les patients atteint de SEP. En effet la sensibilité et la spécificité de celle-ci est insuffisamment évalué dans cette population et peut conduire à des faux négatifs compte tenu de l\’épidémiologie microbiologique particulière dans cette population. Enfin une BU positive doit conduire à la réalisation d‘un ECBU systématiquement. Nous préconisons en cas de suspicion clinique d\’IU de réaliser directement un ECBU.</item>
+
+        <item>Quelle attitude en cas de BA chez une patiente atteinte de SEP enceinte ?
+|Dans ce cas, la BA doit être dépistée et traitée à partir du deuxième semestre de grossesse comme dans la population générale.</item>
+
+        <item>Faut-il dépister et traiter systématiquement une BA avant un BUD ?
+|Il est recommandé de dépister et traiter une BA avant un bilan urodynamique uniquement en présence de facteurs de risque connus d\’IU tels que : IU récidivantes, reflux vésico-urétéral, pression intra-détrusoriennes >40 cm d\’eau. </item>
+
+        <item>Mon patient est sous auto-sondages faut-il faire un ECBU systématique pour ne pas passer à côté d\’une IU ?
+|Non, il n\’est pas recommandé de dépister de manière systématique les BA chez le patient neurologique, quel que soit le mode mictionnel, car : la BA est habituelle dans cette population, le dépistage et le traitement des BA ne prévient ni la survenue ni la récidive des IU et enfin, le traitement des BA favorise l\’émergence de bactéries multi résistantes et peut occasionner des effets indésirables (infection à Clostridium difficile).</item>
+
+        <item>Faut-il faire un ECBU devant des urines troubles ?
+|Oui, il est nécessaire de réaliser un ECBU face à un patient présentant des urines troubles, car ce caractère trouble des urines est un des symptômes majeurs évocateurs d\’IU chez le patient neurologique.</item>
+
+
+    </string-array>
+</resources>

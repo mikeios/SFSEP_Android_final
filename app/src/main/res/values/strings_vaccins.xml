@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vaccin_naif">Patient naïf / au diagnostic</string>
+    <string name="vaccin_immunomodulateur">Patient sous immunomodulateur</string>
+    <string name="vaccin_immunosuppresseur">Patient sous immunosuppresseur</string>
+    //UI Assistant
+    <string name="vaccin_assistant">Assistant</string>
+    <string name="vaccin_assistant_detail">Besoin d\'aide pour déterminer les vaccins à proposer à votre patient?</string>
+    <string name="vaccin_textes_reference">Textes de référence</string>
+    <string name="vaccin_texte_et_ressources">Texte intégral et ressources</string>
+    <string name="vaccin_resume">Résumé des recommandations</string>
+    <string name="vaccin_calendrier">Le calendrier vaccinal</string>
+    <string name="vaccin_carnetDeSante">Disposez vous du carnet de vaccinations et/ou de résultats de sérologies?</string>
+    <string name="vaccin_DDN">Date de naissance (MM/AAAA)</string>
+    <string name="vaccin_tttActuel">Traitement actuel</string>
+    <string name="vaccin_projetIS">Traitement immunosuppresseur envisagé</string>
+    <string name="vaccin_voyages">Voyages fréquents à l\'étranger</string>
+    <string name="vaccin_ctcTroisMois">Corticoïdes dans les 3 mois précédents</string>
+    <string name="vaccin_highEDSS">EDSS ≧ 3</string>
+    <string name="vaccin_recentVZV">A reçu vaccin VZV dans les 3 mois</string>
+    <string name="vaccin_recentVVA">A reçu vaccin vivant autre dans les 3 mois</string>
+    <string name="vaccin_recentInert">A reçu vaccin inerte dans les 3 mois</string>
+    <string name="vaccin_cocooning">Situation de cocooning</string>
+    <string name="vaccin_lastDTP">Dernier rappel DTP (MM/AAAA), 0 si inconnu</string>
+    <string name="vaccin_NbROR">ROR: Nombre d\'injections reçues</string>
+    <string name="vaccin_NbVHB">VHB: Nombre d\'injections reçues</string>
+    <string name="vaccin_vaccinVZV">Vaccin VZV</string>
+    <string name="vaccin_vaccinVHA">Vaccin VHA</string>
+    <string name="vaccin_vaccinGrippe">Vaccin grippe saisonnière cette année</string>
+    <string name="vaccin_vaccinPneumo">Vaccin anti pneumococcique</string>
+    <string name="vaccin_VZV">VZV</string>
+    <string name="vaccin_VHA">VHA</string>
+    <string name="vaccin_AcHbS">Ac anti HbS</string>
+    <string name="vaccin_AcHbC">Ac anti HbC</string>
+    <string name="vaccin_AgHbS">Ag HbS</string>
+    <string name="ui_naif">Naïf</string>
+    <string name="ui_immunomodulateur">Immunomodulateur</string>
+    <string name="ui_immunosuppresseur">Immunosuppresseur</string>
+    <string name="ui_vaccin_zero_nsp">O / ne sait pas</string>
+    <string name="ui_1">1</string>
+    <string name="ui_2">2</string>
+    <string name="ui_3">3</string>
+    <string name="ui_less3">Moins de 3</string>
+    <string name="ui_vaccin_negatif_nsp">Négatif / ne sait pas</string>
+    <string name="ui_vaccin_negative_nsp">Négative / ne sait pas</string>
+    <string name="ui_positif">Positif</string>
+    <string name="ui_positive">Positive</string>
+    //Vaccins et conseils
+    <string name="quandVacciner">Vaccination possible sans restriction particulière</string>
+    <string name="quandVaccinerDeux">"Attendre au moins 3 mois après l\'arrêt du traitement immunosuppresseur actuel avant d\'administrer un vaccin vivant (6 mois pour un anti CD20).\n</string>
+    <string name="quandVaccinerTrois">Attendre 12 semaines après l\'administration des corticoïdes avant d\'administrer un vaccin vivant.\n</string>
+    <string name="quandVaccinerQuatre">Attendre 4 à 6 semaines après l\'administration des corticoïdes avant d\'administrer un vaccin inerte.\n</string>
+    <string name="delaiVaccinTraitement">Pas de restriction particulière</string>
+    <string name="delaiVTdeux">Attendre au moins 6 semaines après l\'administration du vaccin VZV \n</string>
+    <string name="delaiVTtrois">Attendre au moins 4 semaines après l\'administration des vaccin vivants hors VZV (6 semaines pour un anti CD20) \n</string>
+    <string name="delaiVTquatre">Attendre au moins 2 semaines après l\'administration des vaccin inertes \n</string>
+    <string name="delaiVTcinq">Patient sous immunosuppresseur. Les vaccins inertes peuvent être administrés mais leur efficacité peut être légèrement diminuée. Pour les immunosuppresseurs administrés par voie intraveineuse, on peut conseiller d\'effectuer la vaccination à distance d\'une perfusion.</string>
+    <string name="delaiVTsix">Pas de restriction particulière si le patient ne doit pas démarrer d\'immunosuppresseur.</string>
+    <string name="coAdministration">Les vaccins peuvent être co-administrés le même jour sur des sites différents.\n En revanche, si deux vaccins vivants atténués ne sont pas administrés le même jour, alors un délai minimum de 4 semaines doit être respecté entre l\’injection du premier et l\’injection du second. Ce délai minimum n\’est pas nécessaire entre deux vaccins inertes (ou un inerte et un vivant atténué) non administrés le même jour.</string>
+    <string name="coAdDeux">La co-administration du vaccin antipneumococcique et VZV est contre-indiquée pour des raisons de baisse d\’efficacité vaccinale.\n</string>
+    <string name="coAdTrois">Pour les autres vaccins: \n</string>
+    <string name="coAdQuatre">Les vaccins peuvent être co-administrés le même jour sur des sites différents.\nEn revanche, si deux vaccins vivants atténués ne sont pas administrés le même jour, alors un délai minimum de 4 semaines doit être respecté entre l\’injection du premier et l\’injection du second. Ce délai minimum n\’est pas nécessaire entre deux vaccins inertes (ou un inerte et un vivant atténué) non administrés le même jour.</string>
+    <string name="coAdCinq">Les vaccins peuvent être co-administrés le même jour sur des sites différents.</string>
+    <string name="coAdSix">Non applicable</string>
+    //ROR
+    <string name="ROR">ROR</string>
+    <string name="commentROR">Vérifier si le patient a bien reçu deux doses vaccinales</string>
+    <string name="commentRORdeux">Si le patient n\'a reçu qu\'une seule injection vaccinale, proposer une deuxième injection sans contrôle sérologique.</string>
+    <string name="commentRORtrois">Le patient doit normalement avoir reçu deux doses vaccinales pour obtenir une couverture satisfaisante.</string>
+    //VHB
+    <string name="VHB">Hépatite B</string>
+    <string name="commentVHB">Proposer une vérification de la sérologie. Vaccination recommandée si sérologie négative</string>
+    <string name="commentVHBdeux">La sérologie VHB suggère une infection VHB active. Se référer à un avis spécialisé</string>
+    <string name="commentVHBtrois">La sérologie VHB suggère une infection VHB guérie. Se référer à un avis spécialisé</string>
+    <string name="commentVHBquatre">Sérologie VHB négative et patient non vacciné. Vaccination VHB recommandée</string>
+    //VZV
+    <string name="commentVZV">A discuter si sérologie négative, surtout si le patient peut potentiellement recevoir un immunosuppresseur dans le futur</string>
+    <string name="commentVZVdeux">Le patient doit normalement avoir été vacciné avant mise sous traitement si sa sérologie était négative.</string>
+    <string name="commentVZVtrois">Vaccination obligatoire si sérologie VZV négative</string>
+    //DTP
+    <string name="commentDTP">Rappels à faire à 25, 45, 65 ans puis tous les 10 ans</string>
+    <string name="commentDTPdeux">Rappels recommandés tous les 10 ans à partir de 25 ans.</string>
+    <string name="commentDTPtrois">\nProposer une dose de DTPc acellulaire si la dernière dose de vaccin anti coqueluche date de plus de 5 ans</string>
+    <string name="commentDTPquatre">Rappel DTP à faire maintenant puis tous les 10 ans</string>
+    <string name="commentDTPcinq">Rappel DTP à faire dans $1s an(s) puis tous les 10 ans</string>
+    <string name="commentDTPsix">Rappel DTP à faire maintenant. </string>
+    <string name="commentDTPsept">Rappel DTP à faire dans $1s an(s). </string>
+    <string name="commentDTPhuit">Les rappels suivants doivent s\'effectuer tous les 10 ans. </string>
+    <string name="commentDTPneuf">Rappels théoriques à</string>
+    <string name="commentDTPdix">$1d ans </string>
+    <string name="commentDTPonze">puis tous les 10 ans à partir de 65 ans</string>
+    <string name="commentDTPdouze">Rappels théoriques à faire tous les 10 ans à partir de 65 ans</string>
+    //VHA
+    <string name="VHA">Hépatite A</string>
+    <string name="commentVHA">A discuter si sérologie négative, si le patient voyage dans des zones à risque et peut potentiellement recevoir un immunosuppresseur dans le futur</string>
+    //Grippe et pneumocoque
+    <string name="grippe">Grippe saisonnière (vaccin inactivé)</string>
+    <string name="commentGrippe">Peut être conseillée</string>
+    <string name="commentGrippeDeux">Vaccination recommandée</string>
+    <string name="pneumocoque">Pneumocoque</string>
+    <string name="commentPneumocoque">Une injection de vaccin 13 valences puis une injection de vaccin 23 valences deux mois plus tard</string>
+    //Autres VVA
+    <string name="autresVVA">Autres vaccins vivants</string>
+    <string name="commentVVA">Les autres vaccins vivants les plus couramment utilisés sont les vaccins contre le ROR, la fièvre jaune, la tuberculose, le rotavirus ainsi que certaines formes de vaccin antigrippal</string>
+    //Misc
+    <string name="Changement_immunosuppresseur">Changement d\'immunosuppresseur</string>
+    <string name="newISInfo">En cas de changement d\'immunosuppresseur, vérifier les vaccinations suivantes si la situation le permet, en tenant compte du délai nécessaire entre l\'arrêt du traitement actuel et l\'administration des vaccins (cf. ci dessous)</string>
+    <string name="Quand_Vacciner">Quand vacciner?</string>
+    <string name="Quand_demarrer_ttt">Quand démarrer le traitement?</string>
+    <string name="Coad_Possible">Les vaccins peuvent-ils être co administrés?</string>
+    <string name="Points_importants">Points importants</string>
+    <string name="Vaccins_Recommandes">Vaccins recommandés</string>
+    <string name="Vaccins_Interdits">Vaccins interdits</string>
+    <string name="Informations_diverses">Informations diverses</string>
+    <string name="vaccins_effectues">Vaccins effectués</string>
+    <string name="serologies">Sérologies</string>
+</resources>

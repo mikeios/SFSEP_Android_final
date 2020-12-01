@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SFSEP</string>
+    <string name="actus">Actualités</string>
+    <string name="actusSFSEP">Les actualités SFSEP</string>
+    <string name="accueil">Accueil</string>
+    <string name="vaccins">Vaccinations</string>
+    <string name="uti">Infections urinaires</string>
+    <string name="switchs">Switchs</string>
+    <string name="prether">Bilan pré immunosuppression</string>
+    <string name="grossesse">Grossesse</string>
+    <string name="about">A propos</string>
+    <string name="outils">Outils</string>
+    <string name="feedback">Feedback</string>
+    <string name="expected">Attendu en </string>
+    <string name="sfsep">Société Francophone de la Sclérose en Plaques</string>
+    <string name="developedBy">Application développée par Mikael Cohen (CRC SEP Nice)</string>
+    <string name="website">Site internet SFSEP</string>
+    <string name="contact">Contacts SFSEP</string>
+    <string name="cgu">CGU</string>
+    <string name="edss">Score EDSS</string>
+    <string name="McDonald">Critères de McDonald 2017</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="possiblement">⚠</string>
+    <string name="aucun">Aucun</string>
+    <string name="suite">Suite</string>
+    <string name="patientInfo">Informations à propos du patient</string>
+    <string name="Resultats">Résultats</string>
+    <string name="OK">OK</string>
+    <string name="Effacer">Effacer</string>
+    <string name="EffacerMessage">Voulez vous remettre toutes les valeurs à zéro?</string>
+    <string name="wip">En construction</string>
+    <string name="faq">Foire aux Questions</string>
+    <string name="notes">Notes</string>
+    <string name="chargement">Chargement...</string>
+
+    // EDSS alerte
+    <string name="EDSSAlertTitle">Déficit moteur sévère</string>
+    <string name="EDSSAlertMessage">En cas de déficit moteur sévère, il est possible de ne pas prendre en compte le paramètre cérébelleux si celui ci n\'est pas évaluable.\nVoulez vous exclure l\'évaluation du paramètre cérebelleux?</string>
+
+    //Disclaimers
+    <string name="disclaimer_title">Avertissement</string>
+    <string name="disclaimer_message">Cet assistant permet d\'obtenir des conseils concernant la conduite à tenir à proposer à votre patient.\nIl ne s\'agit pas d\'un outil de diagnostic ou de prise de décision médicale.</string>
+    <string name="alert_invalidData_title">Données invalides</string>
+    <string name="alert_ddn_message">Entrer une date de naissance valide au format MM/AAAA</string>
+    <string name="alert_dtp_message">Entrer une date de naissance valide au format MM/AAAA, ou entrer 0 si date non connue</string>
+</resources>

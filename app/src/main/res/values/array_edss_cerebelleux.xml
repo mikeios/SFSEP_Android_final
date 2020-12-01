@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="edss_cerebelleux">
+        <item>0. Normale</item>
+        <item>1. Perturbée sans handicap</item>
+        <item>2. Ataxie débutante</item>
+        <item>3. Ataxie du tronc ou d\'un membre modérée</item>
+        <item>4. Ataxie sévère touchant tous les membres</item>
+        <item>5. L\'ataxie ne permet plus la réalisation de mouvements coordonnés</item>
+    </string-array>
+</resources>

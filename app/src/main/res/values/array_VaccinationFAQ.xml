@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Vaccinations_FAQ">
+        <item>Mon patient a reçu un vaccin vivant. Combien de temps doit il attendre avant de commencer un traitement immunosuppresseur ?
+|1 mois
+\n\n
+6 semaines pour la vaccination anti varicelleuse
+\n\n
+6 semaines pour tous vaccins avant anti-CD20</item>
+        <item>Quand vacciner avec les anti-CD20?
+|Se rapprocher le plus possible d\’un délai de 6 mois après la dernière perfusion
+\n\nLaisser un délai de 1 mois après un vaccin vivant avant de débuter le traitement (6 semaines pour la vaccination anti varicelleuse)
+\n\nLaisser au moins 15 jours après une vaccination par un vaccin inerte avant de faire une perfusion du traitement
+</item>
+        <item>Peut on vacciner les enfants d\’un patient porteur d\’une SEP ?
+|Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d\’une sclérose en plaques ou d\’un premier épisode démyélinisant du système nerveux central, y compris les vaccins contre l\’hépatite B et le papillomavirus humain (grade B).</item>
+        <item>Est-il recommandé de vacciner les proches d\’un patient porteur d\’une SEP ?
+|Les vaccins de manière générale ne sont pas associés à un risque accru de survenue d\’une sclérose en plaques ou d\’un premier épisode démyélinisant du système nerveux central, y compris les vaccins contre l\’hépatite B et le papillomavirus humain (grade B).
+\n\nDifférentes situations sont envisagées :\n
+	✓	Le patient prend un traitement pouvant provoquer une immunodepression: la vaccination de l\’entourage est recommandée\n
+	✓	Le patient présente un EDSS≥3 : la vaccination de l\’entourage est recommandée\n
+	✓	Autre cas : la vaccination de l\’entourage est conseillée (notamment grippe)
+</item>
+        <item>Faut-il vacciner l\’entourage d\’un patient porteur d\’une SEP lorsqu\’il est sous immunosuppresseur?
+|Il est recommandé d\’appliquer à l\’entourage immédiat d\’une personne immunodéprimée le calendrier vaccinal, la vaccination contre la grippe saisonnière par le vaccin inactivé et la vaccination contre la varicelle en cas de sérologie négative (recommandation du Haut Conseil de la Santé Publique, article L3111-1 du Code de la Santé Publique). Il n\’y a pas de risque de contagion par ce vaccin vivant du proche immunodeprimé.
+\n\nLa vaccination antigrippale est fortement conseillée
+</item>
+        <item>A quelle distance d\’un bolus de corticoïdes peut-on vacciner?
+|Il existe peu de données dans la littérature pour répondre à cette question\n
+	✓	4 à 6 semaines semblent raisonnables si vaccins inertes\n
+	✓	3 mois si vaccin vivant atténué
+</item>
+        <item>Jusqu\’à quand vacciner contre la grippe (par rapport à l\’épidémie) ?
+|La vaccination peut être proposée jusqu\’à la fin de l\’épidémie
+</item>
+        <item>Mon patient n\’est pas à jour de ses vaccins et doit débuter un traitement immunosuppresseur. Les vaccins peuvent-ils être co-administrés?
+|Les vaccins peuvent tous être co-administrés, c\’est-à-dire le même jour sur des sites différents: vivants atténués + vivants atténués ; vivants atténués + inertes ; inertes+ inertes.
+\n\nEn revanche, si deux vaccins vivants atténués ne sont pas administrés le même jour, alors un délai minimum de 4 semaines doit être respecté entre l\’injection du premier et l\’injection du second. Ce délai minimum n\’est pas nécessaire entre deux vaccins inertes (ou un inerte et un vivant atténué) non administrés le même jour.
+\n\nAttention: la co-administration vaccin anti pneumococcique et VZV est contre-indiquée pour des raisons de baisse d\’efficacité vaccinale.</item>
+    </string-array>
+</resources>

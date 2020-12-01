@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/accueil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/vaccins"
+        android:title="@string/vaccins"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/uti"
+        android:title="@string/uti"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/switchs"
+        android:title="@string/switchs"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/preIS"
+        android:title="@string/prether"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/grossesse"
+        android:title="@string/grossesse"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/tools"
+        android:title="@string/outils"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/feedback"
+        android:title="@string/feedback"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        app:showAsAction="never" />
+</menu>

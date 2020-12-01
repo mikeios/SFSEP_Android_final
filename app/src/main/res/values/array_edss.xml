@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // SF EDSS
+    <string-array name="EdssPFList">
+        <item>Pyramidal</item>
+        <item>Cérebelleux</item>
+        <item>Sensitif</item>
+        <item>Tronc cérébral</item>
+        <item>Sphincters</item>
+        <item>Vision</item>
+        <item>Cognition</item>
+        <item>Autre</item>
+        <item>Ambulation</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="VaccinationAssistantTwo">
+        <item>Dernier rappel DTP (MM/AAAA), 0 si inconnu</item>
+        <item>ROR: Nombre d\'injections reçues</item>
+        <item>VHB: Nombre d\'injections reçues</item>
+        <item>Vaccin VZV</item>
+        <item>Vaccin VHA</item>
+        <item>Vaccin grippe saisonnière cette année</item>
+        <item>Vaccin anti pneumococcique</item>
+        <item>VZV</item>
+        <item>VHA</item>
+        <item>Ac anti HbS</item>
+        <item>Ac anti HbC</item>
+        <item>Ag HbS</item>
+    </string-array>
+</resources>

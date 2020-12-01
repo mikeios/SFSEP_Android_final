@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Vaccinations_AssistantOne">
+        <item>Date de naissance (MM/AAAA)</item>
+        <item>Traitement actuel</item>
+        <item>Traitement immunosuppresseur envisagé</item>
+        <item>Voyages fréquents à l\'étranger</item>
+        <item>Corticoïdes dans les 3 mois précédents</item>
+        <item>EDSS ≧ 3</item>
+        <item>A reçu vaccin VZV dans les 3 mois</item>
+        <item>A reçu vaccin vivant autre dans les 3 mois</item>
+        <item>A reçu vaccin inerte dans les 3 mois</item>
+        <item>Situation de cocooning</item>
+    </string-array>
+</resources>

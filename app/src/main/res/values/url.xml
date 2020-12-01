@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sfsep_url">https://sfsep.org</string>
+    <string name="mcdonald_url">https://sfsep.org/wp-content/uploads/2018/07/2017_Revisions-of-the-McDonald-diagnostic-criteria.pptx</string>
+    <string name="contact_url">https://sfsep.org/contacts/</string>
+    <string name="calendrier_vaccinal_url">https://solidarites-sante.gouv.fr/IMG/pdf/calendrier_vaccinal_29juin20.pdf</string>
+    <string name="vaccins_sfsep_url">https://sfsep.org/sep-et-vaccinations/</string>
+    <string name="uti_sfsep_url">https://sfsep.org/sep-et-infections-urinaires/</string>
+    <string name="sfsep_rss">https://sfsep.org/feed</string>
+</resources>

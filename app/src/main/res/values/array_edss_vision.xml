@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="edss_vision">
+    <item>0. Fonction Normale</item>
+    <item>1. Scotome avec acuité visuelle corrigée &gt; 0,67</item>
+    <item>2. Scotome sur l\'œil le plus atteint avec une acuité visuelle entre 0,34 et 0,67</item>
+    <item>3. Large scotome sur l\'œil le plus atteint, ou réduction du champ visuel, avec acuité visuelle comprise entre 0,2 et 0,33</item>
+    <item>4. Œil le plus atteint avec diminution marquée du champ visuel, acuité visuelle entre 0,1 et 0,2 ; ou grade 3 avec acuité visuelle du meilleur œil &lt; 0,3</item>
+    <item>5. Acuité visuelle de l\'œil le plus atteint &lt; 0,1 ; ou grade 4 avec acuité visuelle du meilleur œil &lt; 0,3</item>
+    <item>6. Grade 5 avec acuité visuelle du meilleur œil &lt; 0,3</item>
+</string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cguFile">CGU.pdf</string>
+    <string name="file_vaccin_reco_naif">vaccins/vaccin_reco0.pdf</string>
+    <string name="file_vaccin_reco_immunomodulateur">vaccins/vaccin_reco1.pdf</string>
+    <string name="file_vaccin_reco_immunosuppresseur">vaccins/vaccin_reco2.pdf</string>
+    <string name="file_uti_definitions">uti/uti_definitions.pdf</string>
+    <string name="file_uti_definitions_short">uti/uti_definitions_short.pdf</string>
+    <string name="file_uti_poussee">uti/uti_poussee.pdf</string>
+    <string name="file_uti_ttt">uti/uti_ttt.pdf</string>
+    <string name="file_uti_depistage">uti/uti_depistage.pdf</string>
+</resources>

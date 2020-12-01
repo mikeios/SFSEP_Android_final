@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Vaccinations_Main">
+        <item>Besoin d\'aide pour déterminer les vaccins à proposer à votre patient?</item>
+        <item>Texte intégral et ressources</item>
+        <item>Résumé des recommandations</item>
+        <item>Foire aux Questions</item>
+        <item>Le calendrier vaccinal</item>
+    </string-array>
+</resources>

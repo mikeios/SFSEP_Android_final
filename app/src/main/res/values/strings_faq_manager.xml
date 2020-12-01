@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="faqIdForIntent">faqID</string>
+    <string name="faq_key_vaccination">vaccination</string>
+    <string name="faq_key_uti">uti</string>
+</resources>

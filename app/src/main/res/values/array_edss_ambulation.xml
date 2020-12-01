@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="edss_ambulation">
+    <item>Peut marcher plus de 500m sans aide</item>
+    <item>Peut marcher entre 300 et 500m sans aide</item>
+    <item>Peut marcher entre 200 et 300m sans aide</item>
+    <item>Peut marcher entre 100 et 200m sans aide</item>
+    <item>Aide unilatérale (canne, canne anglaise, béquille) constante ou intermittente nécessaire pour parcourir environ 100 m avec ou sans repos intermédiaire</item>
+    <item>Aide permanente bilatérale (cannes, cannes anglaises, béquilles) nécessaire pour marcher 20 m sans s\'arrêter</item>
+    <item>Incapable de marcher plus de 5 m même avec aide ; essentiellement confiné au fauteuil roulant; fait avancer lui-même son fauteuil et effectue le transfert; est au fauteuil roulant au moins 12 h par jour</item>
+    <item>Incapable de faire plus de quelques pas; strictement confiné au fauteuil roulant; a parfois besoin d\'une aide pour le transfert; peut faire avancer lui-même son fauteuil mais ne peut y rester toute la journée; peut avoir besoin d\'un fauteuil électrique</item>
+    <item>Essentiellement confiné au lit ou au fauteuil, ou promené en fauteuil par une autre personne; peut rester hors du lit la majeure partie de la journée; conserve la plupart des fonctions élémentaires; conserve en général l\'usage effectif des bras</item>
+    <item>Confiné au lit la majeure partie de la journée ; garde un usage partiel des bras ; conserve quelques fonctions élémentaires</item>
+    <item>Patient grabataire ; peut communiquer et manger</item>
+    <item>Patient totalement impotent, ne peut plus manger ou avaler, ni communiquer</item>
+
+</string-array>
+</resources>

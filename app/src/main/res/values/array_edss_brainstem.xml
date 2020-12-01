@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="edss_brainstem">
+    <item>0. Fonction Normale</item>
+    <item>1. Examen anormal, pas de gêne fonctionnelle</item>
+    <item>2. Nystagmus modéré ou autre handicap modéré</item>
+    <item>3. Nystagmus sévère, faiblesse extra-oculaire handicap modéré d\'autres nerfs crâniens</item>
+    <item>4. Dysarthrie ou autre handicap marqué</item>
+    <item>5. Dans l\'impossibilité d\'avaler ou de parler</item>
+</string-array>
+</resources>

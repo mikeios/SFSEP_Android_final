@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="edss_cognition">
+    <item>0. Fonction Normale</item>
+    <item>1. Altération isolée de l\'humeur</item>
+    <item>2. Diminution légère de l\'idéation</item>
+    <item>3. Diminution modérée de l\'idéation</item>
+    <item>4. Diminution marquée de l\'idéation</item>
+    <item>5. Démence</item>
+</string-array>
+</resources>

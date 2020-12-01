@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mcdonald_preambule">Préambule</string>
+    <string name="mcdonald_detail">- Les critères de McDonald ont été développés et validés sur des données de centres académiques, chez des adultes de moins de 50 ans, d’origine génétique/ethnique européenne occidentale, avec une présentation clinique typique de CIS \n \n - Garder à l’esprit que les critères de McDonald ont été développés et validés pour identifier la SEP ou une forte probabilité de SEP chez des patients ayant une présentation clinique typique de CIS, mais pas pour différencier la SEP d’autres maladies\n\n- L’intégration des données d’anamnèse, examen, imagerie et examens complémentaires par un clinicien expérimenté pour la SEP reste fondamentale pour faire un diagnostic fiable de SEP ou un diagnostic alternatif\n\nRéférence: Thompson A, Banwell BL, Barkhof F, Carroll WM, Coetzee T, Comi G, et al. Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria. Lancet Neurol. 2018 Feb;17(2):162-173</string>
+    <string name="voir_criteres">Voir les critères</string>
+    <string name="diaporama">Diaporama du Pr Vukusic</string>
+</resources>

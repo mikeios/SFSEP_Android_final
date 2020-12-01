@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="dmt">
+        <item>Aucun</item>
+        <item>IFN-β</item>
+        <item>Glatiramer acetate</item>
+        <item>Teriflunomide</item>
+        <item>Dimethyl Fumarate</item>
+        <item>Fingolimod</item>
+        <item>Cladribine</item>
+        <item>Mitoxantrone</item>
+        <item>Natalizumab</item>
+        <item>Alemtuzumab</item>
+        <item>Ocrelizumab</item>
+        <item>Cyclophosphamide</item>
+        <item>Mycophenolate Mofetil</item>
+        <item>Azathioprine</item>
+        <item>Rituximab</item>
+    </array>
+</resources>
